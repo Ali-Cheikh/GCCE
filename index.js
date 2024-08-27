@@ -1,7 +1,7 @@
 
 
 document.addEventListener('DOMContentLoaded', () => {
-    const token = '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'; // Replace with your GitHub token
+    const token = 'your GitHub token'; // Replace with your GitHub token
   
     const daysOfWeek = document.getElementById('days-of-week');
     const calendarGrid = document.getElementById('calendar-grid');
