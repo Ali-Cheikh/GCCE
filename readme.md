@@ -1,5 +1,12 @@
 # 30 Days GitHub Contribution Calendar
-
+```Sql
+- first let me tell you why i made this all the old one's out there have 0 styling in them and takes a lot of time experience and effort to understand,
+my layout is simple my code is vanilla its perfect for just putting it in your portfolio but still i do have a problem wich is that you can't commit it
+on github without creating a .env file with the token and setting a react and node comunication server thingy wich may risk the code base by adding
+tons of modules also can risk your account by making the token not only visible but also setting it up to be usable at least in my layout the token is
+just there to read it wont do anyone any good hhhh
++ hope who's reading this can help or have an idea to make it a lot better fell free to pull a request
+```
 This project displays a GitHub contribution calendar for the past 30 days, providing a visual representation of your GitHub activity. The calendar shows different levels of contributions, color-coded to represent the frequency of contributions during this period.
 
 ## Features
